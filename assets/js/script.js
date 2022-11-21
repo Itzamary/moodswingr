@@ -22,7 +22,7 @@ var getPlaylistTracks = function(trackId) {
         method: 'GET',
         headers: {
             'X-RapidAPI-Host': 'spotify23.p.rapidapi.com',
-            'X-RapidAPI-Key': 'f7955a52bcmsh7aeefb259dd6fc4p100f96jsnbff71a98476a'
+            'X-RapidAPI-Key': '86673a3a0fmshb2bb63a74b94633p101ce8jsn70748f432c0e'
         }
     };
 
